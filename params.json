@@ -1,6 +1,6 @@
 {
   "name": "Boo",
   "tagline": "bobby",
-  "body": "# boo\r\n<!DOCTYPE html>\r\n<html>\r\n<head>\r\n<title>Page Title</title>\r\n</head>\r\n<body style=\"background-color:green\">\r\n<h2>Spectacular Mountain</h2>\r\n<img src=\"pic_mountain.jpg\" alt=\"Mountain View\" style=\"width:304px;height:228px;\">\r\n\r\n<h1>TRAIL 1</h1>\r\n<p>YES IT WORKED .</p>\r\n<h2 style=\"background-color:orange\">\r\n\r\n\r\n\r\n",
+  "body": "# boo\r\n\r\n<html>\r\n<head>\r\n<title>Page Title</title>\r\n</head>\r\n<body style=\"background-color:green\">\r\n<h2>Spectacular Mountain</h2>\r\n<img src=\"pic_mountain.jpg\" alt=\"Mountain View\" style=\"width:304px;height:228px;\">\r\n\r\n<h1>TRAIL 1</h1>\r\n<p>YES IT WORKED .</p>\r\n<h2 style=\"background-color:orange\">\r\n\r\n\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
